@@ -1,0 +1,10 @@
+body{
+    background-size: cover;
+}
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+}
+canvas{
+    border: 7px solid red;
+}
